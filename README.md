@@ -21,6 +21,6 @@ The screenshot above is the monitor. Tells the user all the stats plus some butt
 Pastebin Code:
 Keep this as startup so if there any updates to the program it automatically updates the files and runs the program
 
->pastebin get EJPU9YAA startup
+>pastebin get kEyUTRqM startup
 
 Credit to acidjazz for f API and some of the code to make this work.

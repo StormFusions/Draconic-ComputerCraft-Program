@@ -23,4 +23,4 @@ Keep this as startup so if there any updates to the program it automatically upd
 
 >pastebin get kEyUTRqM startup
 
-Credit to acidjazz for f API and some of the code to make this work.
+Credit to [acidjazz](https://github.com/acidjazz) for f API and some of the code to make this work.
